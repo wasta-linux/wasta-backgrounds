@@ -1,0 +1,31 @@
+wasta-backgrounds (20.04.0) focal; urgency=medium
+
+  * initial focal release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Sat, 11 Jan 2020 16:26:10 +0300
+
+wasta-backgrounds (1.0.0) xenial; urgency=medium
+
+  * 16.04 release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 27 Apr 2016 13:47:32 +0300
+
+wasta-backgrounds (0.1.2) trusty; urgency=medium
+
+  * renaming xml and folder to wasta-linux-wasta to avoid conflict
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 21 Jan 2015 18:57:47 +0300
+
+wasta-backgrounds (0.1.1) trusty; urgency=medium
+
+  * renaming folder to wasta-backgrounds-wasta so won't conflict
+    with /usr/share/backgrounds/wasta installed by older versions of
+    wasta-base-setup
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Wed, 21 Jan 2015 09:36:26 +0300
+
+wasta-backgrounds (0.1.0) trusty; urgency=medium
+
+  * initial release
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Tue, 13 Jan 2015 15:08:31 +0300

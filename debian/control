@@ -1,0 +1,14 @@
+Source: wasta-backgrounds
+Section: doc
+Priority: extra
+Maintainer: Rik Shaw <rikshaw76@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.5
+
+Package: wasta-backgrounds
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Wasta-Linux Background Images
+ Desktop background images for Wasta-Linux from unsplash, etc. Default
+ background images from previous Wasta-Linux releases are included for
+ historical purposes.

@@ -1,0 +1,98 @@
+Format: http://dep.debian.net/deps/dep5
+Upstream-Name: wasta-backgrounds
+Source: https://www.github.com/wasta-linux/wasta-backgrounds/
+
+Files: debian/*
+Copyright: 2015-2020 Rik Shaw <rikshaw76@gmail.com>
+License: GPL-3.0+
+
+Files: install-files/wasta.xml
+Copyright: 2015-2020 Rik Shaw <rikshaw76@gmail.com>
+License: GPL-3.0+
+
+Files: install-files/backgrounds/wasta/Blue_box_number_2_by_orb9220*.jpg
+       install-files/backgrounds/wasta/MistyMorning.jpg
+       install-files/backgrounds/wasta/Tramonto_a_scalea_by_Renatvs88.jpg
+       install-files/backgrounds/wasta/Winter_Morning_by_Shannon_Lucas.jpg
+Copyright: 2010-2016 Ubuntu community contributors
+License: CC-BY-SA 3.0
+
+Files: install-files/backgrounds/wasta/alessandro-di-credico-unsplash.jpg
+Copyright: Alessandro Di Credico <https://unsplash.com/photos/aIY9yXHMX28>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/daniel-von-appen-unsplash*.jpg
+Copyright: Daniel von Appen <https://unsplash.com/photos/9UJKB9t6qhg>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/fabien-bazanegue-unsplash.jpg
+Copyright: Fabien Bazanegue <https://unsplash.com/photos/Ijea8ygtHV8>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/luca-zanon-unsplash.jpg
+Copyright: Luca Zanon <https://unsplash.com/photos/X0OoHrPvgXE>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/mekht-unsplash.jpg
+Copyright: Mekht <https://unsplash.com/photos/LSE4Rz_ixvA>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/moren-hsu-unsplash*.jpg
+Copyright: Moren Hsu <https://unsplash.com/photos/VLaKsTkmVhk>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/nathan-dumalo-unsplash.jpg
+Copyright: Nathan Dumalo <https://unsplash.com/photos/mNLymMqX7iE>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/neha-deshmukh-unsplash.jpg
+Copyright: Neha Deshmukh <https://unsplash.com/photos/GoKXJaQoLQs>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/pixpoetry-unsplash.jpg
+Copyright: Pixpoetry <https://unsplash.com/photos/FYAL0hK5Eos>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/ruben-bagues-unsplash.jpg
+Copyright: Ruben Bagues <https://unsplash.com/photos/1sLjKN8VgRs>
+License: Unsplash
+
+Files: install-files/backgrounds/wasta/rutzsepp-unsplash.jpg
+Copyright: Rutzsepp <https://unsplash.com/photos/hZQOby6ZdIE>
+License: Unsplash
+
+License: GPL-3.0+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 3 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 3 can be found in "/usr/share/common-licenses/GPL-3".
+
+License: Unsplash
+ All photos published on Unsplash can be used for free. You can use them for
+ commercial and noncommercial purposes. You do not need to ask permission from
+ or provide credit to the photographer or Unsplash, although it is appreciated
+ when possible.
+ .
+ More precisely, Unsplash grants you an irrevocable, nonexclusive, worldwide
+ copyright license to download, copy, modify, distribute, perform, and use
+ photos from Unsplash for free, including for commercial purposes, without
+ permission from or attributing the photographer or Unsplash. This license does
+ not include the right to compile photos from Unsplash to replicate a similar
+ or competing service.
+
+License: CC-BY-SA 3.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 
+ Unported License. To view a copy of this license, visit 
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
+ Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.

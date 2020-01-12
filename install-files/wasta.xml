@@ -18,7 +18,7 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Blue Box Number 2 - Wasta</name>
+    <name>Wasta - Blue Box Number 2</name>
     <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220-wasta.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -34,7 +34,7 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Daniel von Appen - Unsplash Wasta Text</name>
+    <name>Wasta - Daniel von Appen - Unsplash</name>
     <filename>/usr/share/backgrounds/wasta/daniel-von-appen-unsplash-wasta-text.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -42,7 +42,7 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Daniel von Appen - Unsplash Wasta Text Dark</name>
+    <name>Wasta Dark - Daniel von Appen - Unsplash</name>
     <filename>/usr/share/backgrounds/wasta/daniel-von-appen-unsplash-wasta-text-dark.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -82,7 +82,7 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Moren Hsu - Unsplash Wasta Logos</name>
+    <name>Wasta - Moren Hsu - Unsplash</name>
     <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -130,7 +130,15 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Tramonto a Scalea</name>
+    <name>Wasta 18.04 Default - Clarity</name>
+    <filename>/usr/share/backgrounds/wasta/clarity_by_sigi_sagi.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Wasta 16.04 Default - Tramonto a Scalea</name>
     <filename>/usr/share/backgrounds/wasta/Tramonto_a_Scalea_by_Renatvs88.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
@@ -138,7 +146,15 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Winter Morning</name>
+    <name>Wasta 14.04 Default - Aqua Blue Smoke Ring</name>
+    <filename>/usr/share/backgrounds/wasta/aqua-blue-smoke-ring-wallpapersafari.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Wasta 12.04 Default - Winter Morning</name>
     <filename>/usr/share/backgrounds/wasta/Winter_Morning_by_Shannon_Lucas.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>

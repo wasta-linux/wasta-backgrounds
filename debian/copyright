@@ -11,11 +11,16 @@ Copyright: 2015-2020 Rik Shaw <rikshaw76@gmail.com>
 License: GPL-3.0+
 
 Files: install-files/backgrounds/wasta/Blue_box_number_2_by_orb9220*.jpg
+       install-files/backgrounds/wasta/clarity_by_sigi_sagi.jpg
        install-files/backgrounds/wasta/MistyMorning.jpg
        install-files/backgrounds/wasta/Tramonto_a_scalea_by_Renatvs88.jpg
        install-files/backgrounds/wasta/Winter_Morning_by_Shannon_Lucas.jpg
 Copyright: 2010-2016 Ubuntu community contributors
 License: CC-BY-SA 3.0
+
+Files: install-files/backgrounds/wasta/aqua-blue-smoke-ring-wallpapersafari.jpg
+Copyright: Wallpaper Safari <https://wallpapersafari.com/w/6xz9mJ>
+License: Wallpaper-Safari
 
 Files: install-files/backgrounds/wasta/alessandro-di-credico-unsplash.jpg
 Copyright: Alessandro Di Credico <https://unsplash.com/photos/aIY9yXHMX28>
@@ -96,3 +101,6 @@ License: CC-BY-SA 3.0
  Unported License. To view a copy of this license, visit 
  http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative 
  Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
+License: Wallpaper-Safari
+ Free to use from www.wallpapersafari.com

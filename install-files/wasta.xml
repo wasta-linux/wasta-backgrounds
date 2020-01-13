@@ -2,32 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
-    <name>Alessandro di Credico - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/alessandro-di-credico-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Blue Box Number 2</name>
-    <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Wasta - Blue Box Number 2</name>
-    <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220-wasta.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Daniel von Appen - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/daniel-von-appen-unsplash.jpg</filename>
+    <name>Wasta - Moren Hsu - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -50,80 +26,8 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Fabien bazanegue - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/fabien-bazanegue-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Mekht - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/mekht-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Misty Morning</name>
-    <filename>/usr/share/backgrounds/wasta/MistyMorning.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Moren Hsu - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Wasta - Moren Hsu - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Nathan Dumalao - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/nathan-dumalao-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Neha Deshmukh - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/neha-deshmukh-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Pixpoetry - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/pixpoetry-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Ruben Bagues - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/ruben-bagues-unsplash.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Rutzsepp - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/rutzsepp-unsplash.jpg</filename>
+    <name>Wasta - Blue Box Number 2</name>
+    <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220-wasta.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -156,6 +60,110 @@
 <wallpaper>
     <name>Wasta 12.04 Default - Winter Morning</name>
     <filename>/usr/share/backgrounds/wasta/Winter_Morning_by_Shannon_Lucas.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Alessandro di Credico - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/alessandro-di-credico-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Blue Box Number 2</name>
+    <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Daniel von Appen - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/daniel-von-appen-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Fabien Bazanegue - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/fabien-bazanegue-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Luca Zanon - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/luca-zanon-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Mekht - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/mekht-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Misty Morning</name>
+    <filename>/usr/share/backgrounds/wasta/MistyMorning.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Moren Hsu - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Nathan Dumlao - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/nathan-dumlao-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Neha Deshmukh - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/neha-deshmukh-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Pixpoetry - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/pixpoetry-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Ruben Bagues - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/ruben-bagues-unsplash.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Rutzsepp - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/rutzsepp-unsplash.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>

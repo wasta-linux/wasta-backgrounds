@@ -1,3 +1,9 @@
+wasta-backgrounds (20.04.2) focal; urgency=medium
+
+  * wasta logo images: applied unsharp mask
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 10 Feb 2020 08:23:04 +0300
+
 wasta-backgrounds (20.04.1) focal; urgency=medium
 
   * moren-hsu: adjust wasta-resources logo with new yellow

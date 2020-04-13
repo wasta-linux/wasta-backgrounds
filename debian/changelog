@@ -1,3 +1,9 @@
+wasta-backgrounds (20.04.3) focal; urgency=medium
+
+  * adding wasta version of fabien bazanegue unsplash photo
+
+ -- Rik Shaw <rikshaw76@gmail.com>  Mon, 13 Apr 2020 12:29:58 -0500
+
 wasta-backgrounds (20.04.2) focal; urgency=medium
 
   * wasta logo images: applied unsharp mask

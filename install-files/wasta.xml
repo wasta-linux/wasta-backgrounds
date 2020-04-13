@@ -2,6 +2,14 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
+    <name>Wasta - Fabien Bazanegue - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/fabien-bazanegue-unsplash-wasta.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
     <name>Wasta - Moren Hsu - Unsplash</name>
     <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
     <options>zoom</options>

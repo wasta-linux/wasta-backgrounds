@@ -10,14 +10,6 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
-    <name>Wasta - Moren Hsu - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
     <name>Wasta - Daniel von Appen - Unsplash</name>
     <filename>/usr/share/backgrounds/wasta/daniel-von-appen-unsplash-wasta-text.jpg</filename>
     <options>zoom</options>
@@ -42,24 +34,16 @@
     <scolor>#000000</scolor>
 </wallpaper>
 <wallpaper>
+    <name>Wasta - Moren Hsu - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/moren-hsu-unsplash-wasta-logos.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
     <name>Wasta - Dre0x - Minum Dark</name>
     <filename>/usr/share/backgrounds/wasta/Dre0x-Minum-dark-wasta.png</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Linux Retro - Dark</name>
-    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Dark.png</filename>
-    <options>zoom</options>
-    <shade_type>solid</shade_type>
-    <pcolor>#000000</pcolor>
-    <scolor>#000000</scolor>
-</wallpaper>
-<wallpaper>
-    <name>Linux Retro - Light</name>
-    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Light.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -100,6 +84,22 @@
 <wallpaper>
     <name>Wasta 12.04 Default - Winter Morning</name>
     <filename>/usr/share/backgrounds/wasta/Winter_Morning_by_Shannon_Lucas.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Linux Retro - Dark</name>
+    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Dark.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Linux Retro - Light</name>
+    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Light.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>

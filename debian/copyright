@@ -3,11 +3,12 @@ Upstream-Name: wasta-backgrounds
 Source: https://www.github.com/wasta-linux/wasta-backgrounds/
 
 Files: debian/*
-Copyright: 2015-2020 Rik Shaw <rikshaw76@gmail.com>
+Copyright: 2015-2022 Rik Shaw <rikshaw76@gmail.com>
 License: GPL-3.0+
 
 Files: install-files/wasta.xml
-Copyright: 2015-2020 Rik Shaw <rikshaw76@gmail.com>
+       install-files/backgrounds/wasta/wasta-trianglify.png
+Copyright: 2015-2022 Rik Shaw <rikshaw76@gmail.com>
 License: GPL-3.0+
 
 Files: install-files/backgrounds/wasta/Blue_box_number_2_by_orb9220*.jpg
@@ -30,9 +31,17 @@ Files: install-files/backgrounds/wasta/daniel-von-appen-unsplash*.jpg
 Copyright: Daniel von Appen <https://unsplash.com/photos/9UJKB9t6qhg>
 License: Unsplash
 
+Files: install-files/backgrounds/wasta/Dre0x-Minum-dark-wasta.jpg
+Copyright: Dre0x <https://forum.armbian.com/topic/2417-armbian-wallpaper-remake/#comment-19208>
+License: Dre0x
+
 Files: install-files/backgrounds/wasta/fabien-bazanegue-unsplash*.jpg
 Copyright: Fabien Bazanegue <https://unsplash.com/photos/Ijea8ygtHV8>
 License: Unsplash
+
+Files: install-files/backgrounds/wasta/Linux-Retro-*.png
+Copyright: Imgur <https://imgur.com/a/Vr2cj3X>
+License: Imgur
 
 Files: install-files/backgrounds/wasta/luca-zanon-unsplash.jpg
 Copyright: Luca Zanon <https://unsplash.com/photos/X0OoHrPvgXE>
@@ -104,3 +113,9 @@ License: CC-BY-SA 3.0
 
 License: Wallpaper-Safari
  Free to use from www.wallpapersafari.com
+
+License: Imgur
+ Free to use from www.imgur.com
+
+License: Dre0x
+ Free to use from https://forum.armbian.com/topic/2417-armbian-wallpaper-remake/#comment-19208

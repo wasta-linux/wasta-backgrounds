@@ -2,8 +2,8 @@
 <!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
 <wallpapers>
 <wallpaper>
-    <name>Wasta - Fabien Bazanegue - Unsplash</name>
-    <filename>/usr/share/backgrounds/wasta/fabien-bazanegue-unsplash-wasta.jpg</filename>
+    <name>Wasta - Trianglify</name>
+    <filename>/usr/share/backgrounds/wasta/wasta-trianglify.png</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
@@ -36,6 +36,38 @@
 <wallpaper>
     <name>Wasta - Blue Box Number 2</name>
     <filename>/usr/share/backgrounds/wasta/Blue_box_number_2_by_orb9220-wasta.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Wasta - Dre0x - Minum Dark</name>
+    <filename>/usr/share/backgrounds/wasta/Dre0x-Minum-dark-wasta.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Linux Retro - Dark</name>
+    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Dark.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Linux Retro - Light</name>
+    <filename>/usr/share/backgrounds/wasta/Linux-Retro-Light.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#000000</pcolor>
+    <scolor>#000000</scolor>
+</wallpaper>
+<wallpaper>
+    <name>Wasta 20.04 Default - Fabien Bazanegue - Unsplash</name>
+    <filename>/usr/share/backgrounds/wasta/fabien-bazanegue-unsplash-wasta.jpg</filename>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#000000</pcolor>
